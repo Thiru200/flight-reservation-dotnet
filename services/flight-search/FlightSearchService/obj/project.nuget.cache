@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/xZP7WBOWTOqH03U1QLIeydcwIBjyyKlYp9jrqrc1e0bNAAPVWCTBSOtDc066F2EEFbTcYr6UeneQVr2KU79Q==",
+  "success": true,
+  "projectFilePath": "/home/thirumurugan/Desktop/Flight Reservation System/flight-reservation-system/services/flight-search/FlightSearchService/FlightSearchService.csproj",
+  "expectedPackageFiles": [
+    "/home/thirumurugan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/thirumurugan/.nuget/packages/swashbuckle.aspnetcore/9.0.3/swashbuckle.aspnetcore.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
